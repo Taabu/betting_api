@@ -1,0 +1,71 @@
+{
+
+    "id": 8661032861909889000,
+
+    "message_type": "UpdateOdds",
+
+    "event": {
+
+        "id": 994839351740,
+
+        "name": "Real Madrid vs Barcelona",
+
+        "startTime": "2018-06-20 10:30:00",
+
+        "sport": {
+
+            "id": 221,
+
+            "name": "Football"
+
+        },
+
+        "markets": [
+
+            {
+
+                "id": 385086549360973400,
+
+                "name": "Winner",
+
+                "selections": [
+
+                    {
+
+                        "id": 8243901714083343000,
+
+                        "name": "Real Madrid",
+
+                        "odds": 10
+
+                    },
+
+                    {
+
+                        "id": 5737666888266680000,
+
+                        "name": "Barcelona",
+
+                        "odds": 5.55
+
+                    },
+
+                    {
+
+                    	"id": 6737666888266680000,
+
+                    	"name": "Draw",
+
+                    	"odds": 1.01
+
+                    }
+
+                ]
+
+            }
+
+        ]
+
+    }
+
+}

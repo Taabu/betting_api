@@ -1,0 +1,113 @@
+{
+
+    "id": 8661032861909884001,
+
+    "message_type": "NewEvent",
+
+    "event": {
+
+        "id": 994839351741,
+
+        "name": "Boca Juniors vs River Plate",
+
+        "startTime": "2018-06-20 20:30:00",
+
+        "sport": {
+
+            "id": 221,
+
+            "name": "Football"
+
+        },
+
+        "markets": [
+
+            {
+
+                "id": 385086549360973401,
+
+                "name": "Winner",
+
+                "selections": [
+
+                    {
+
+                        "id": 8243901714083343001,
+
+                        "name": "Boca Juniors",
+
+                        "odds": 1.01
+
+                    },
+
+                    {
+
+                        "id": 5737666888266680001,
+
+                        "name": "River Plate",
+
+                        "odds": 1.01
+
+                    },
+
+                    {
+
+                        "id": 6737666888266680001,
+
+                        "name": "Draw",
+
+                        "odds": 2
+
+                    }
+
+                ]
+
+            },
+
+            {
+
+                "id": 385086549360973301,
+
+                "name": "1st Half Winner",
+
+                "selections": [
+
+                    {
+
+                        "id": 1243901714083343601,
+
+                        "name": "Boca Juniors",
+
+                        "odds": 1.01
+
+                    },
+
+                    {
+
+                        "id": 1737666888266680801,
+
+                        "name": "River Plate",
+
+                        "odds": 1.01
+
+                    },
+
+                    {
+
+                        "id": 2737666888266680801,
+
+                        "name": "Draw",
+
+                        "odds": 2
+
+                    }
+
+                ]
+
+            }
+
+        ]
+
+    }
+
+}
